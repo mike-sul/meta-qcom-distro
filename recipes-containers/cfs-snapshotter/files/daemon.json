@@ -1,0 +1,4 @@
+{
+  "features": { "containerd-snapshotter": true },
+  "storage-driver": "cfs"
+}
